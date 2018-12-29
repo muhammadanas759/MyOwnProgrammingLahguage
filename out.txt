@@ -1,0 +1,8 @@
+(identifier,int,1)
+(identifier,a,1)
+(Assignment Operator,*:,1)
+(float const,776.4,1)
+(DT,number,2)
+(identifier,ab,2)
+(,:,2)
+(identifier,dd,2)

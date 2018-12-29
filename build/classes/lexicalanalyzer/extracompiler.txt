@@ -1,0 +1,72 @@
+public class myclass
+number a 
+void main()
+check(num)
+number h
+end
+otherwise
+number a
+end 
+end
+end
+
+public class myclass
+number a:455
+number[] z:[(aa)]
+void main(number a)
+number b:a.d.fn[as].fn[sd].asd().sd.ed
+end
+end
+public class myclass
+number a:455
+number[] z:[(aa)]
+
+void main(number a)
+
+repeat( ? ?)
+end
+
+end
+end
+public class myclass
+
+number a:455
+number[] z:[(aa)]
+
+void main(number a)
+
+repeat( ? ? a++)
+end
+end
+end
+public class myclass
+number a 
+void main()
+check(num)
+number h
+end
+otherwise
+number a
+end 
+end
+end
+
+public class myclass
+number a:455
+number[] z:[(aa)]
+void main(number a)
+myfunction()
+number a:a.d.fn[as].a.fn[sd].asd().sd.ed()
+end
+end
+public class myclass
+number a:455
+number[] z:[(aa)]
+
+void main(number a)
+++A
+repeat( ? ?)
+end
+
+end
+end
